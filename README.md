@@ -7,7 +7,7 @@ How to Play this game?
 <br>
 -> Keep all the files in same folder. (IMPORTANT)
 <br>
--> Open "color game.html" file in any browser (CHROME RECOMMENDED)
+-> Open "index.html" file in any browser (CHROME RECOMMENDED)
 <br>
 
 Enjoy it! <3
